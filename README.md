@@ -11,10 +11,11 @@ The RP2350-MINI development board is built with the RP2350A dual-core microcontr
 |-------------|--------------|
 |Supply Voltage |5V (via Type-C port or 5V pad on the stamp hole)|
 |Dimensions |27mm (L) × 20.32mm (W)|
-|Weight |2.5g / 4.2g (with header pins soldered)|
-<br>
+|Weight |2.5g / 4.2g (with header pins soldered)|<br>
+
 ![image](https://github.com/seengreat/RP2350-MINI/blob/main/pic2.png)<br>
 RP2350-MINI Dimensions<br>
+
 # Ⅱ Usage
 ## 2.1 Resource Introduction
 ![image](https://github.com/seengreat/RP2350-MINI/blob/main/pic3.png)<br>
