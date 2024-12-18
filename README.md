@@ -11,15 +11,15 @@ The RP2350-MINI development board is built with the RP2350A dual-core microcontr
 |-------------|--------------|
 |Supply Voltage |5V (via Type-C port or 5V pad on the stamp hole)|
 |Dimensions |27mm (L) × 20.32mm (W)|
-
 |Weight |2.5g / 4.2g (with header pins soldered)|
+<br>
 ![image](https://github.com/seengreat/RP2350-MINI/blob/main/pic2.png)<br>
 RP2350-MINI Dimensions<br>
 # Ⅱ Usage
 ## 2.1 Resource Introduction
 ![image](https://github.com/seengreat/RP2350-MINI/blob/main/pic3.png)<br>
 RP2350-MINI Resource Introduction<br>
-1.Type-C Connector: Supports USB 1.1 host and device, can be used for program downloading.
+1.Type-C Connector: Supports USB 1.1 host and device, can be used for program downloading.<br>
 2.Linear Regulator ME6211C33M5G: Provides a 3.3V output with a maximum current output of 500mA.<br>
 3.WS2812: Full-color RGB LED for visual indication.<br>
 4.RUN Reset Button: Used to reset the board.<br>
