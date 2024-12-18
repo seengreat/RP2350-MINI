@@ -30,7 +30,7 @@ RP2350-MINI Resource Introduction<br>
 ## 2.2 Multi-function GPIO Pins
 ![image](https://github.com/seengreat/RP2350-MINI/blob/main/pic4.png)<br>
 Multi-function GPIO Pins<br>
-## 2.3 Python Example Usage
+## 2.3 Usage
 For more details about Usage<br>
 https://seengreat.com/wiki/163/rp2350-mini-rp2350a-dual-core-microcontroller--raspberry-pi-based#toc8<br>
 
